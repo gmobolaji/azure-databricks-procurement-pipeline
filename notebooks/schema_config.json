@@ -1,0 +1,9 @@
+{
+    "purchase_orders": {
+        "order_id": "string",
+        "supplier_id": "string",
+        "category": "string",
+        "amount": "double",
+        "date": "date"
+    }
+}
