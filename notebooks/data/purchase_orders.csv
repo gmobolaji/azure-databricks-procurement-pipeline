@@ -1,0 +1,4 @@
+order_id,supplier_id,category,amount,date
+PO001,S001,Electronics,12500.50,2025-09-15
+PO002,S002,Office Supply,2300.75,2025-09-17
+PO003,S001,Electronics,14500.00,2025-09-20
