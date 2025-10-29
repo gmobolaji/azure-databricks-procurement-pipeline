@@ -1,0 +1,35 @@
+# Ignore Databricks & notebook checkpoints
+.ipynb_checkpoints/
+*.db
+*.sqlite
+*.bak
+
+# Ignore Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temporary files
+logs/
+tmp/
+*.log
+*.tmp
+
+# Ignore data files that shouldn’t be versioned
+data/*.csv
+data/*.parquet
+data/*.json
+
+# Ignore OS and environment files
+.DS_Store
+Thumbs.db
+.env
+*.zip
+*.tar.gz
+
+# Ignore Databricks local configuration
+.databricks/
+dbfs/
+.vscode/
+.idea/
